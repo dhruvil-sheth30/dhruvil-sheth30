@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dhruvil-sheth30
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning Front-end
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me at my instagram
+- 💞️ I’m looking to collaborate on Front-End Projects
+- 📫 Reach me at my instagram
 - my ig dhruvil_sheth30
 <!---
 dhruvil-sheth30/dhruvil-sheth30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
