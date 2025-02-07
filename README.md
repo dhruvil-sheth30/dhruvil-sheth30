@@ -1,5 +1,10 @@
 # 💫 About Me:
-💻 Just a developer trying to make sense of the bugs I create.  <br>⚡ Powered by coffee, late-night debugging, and questionable decisions.  <br>🐍 Fluent in code, but still struggling with human languages.  <br>🛠️ Building projects that sometimes work… eventually.  <br>📌 Ctrl+C, Ctrl+V enthusiast with occasional original ideas.  <br>🎮 Coding by day, gaming by night, debugging in between.
+💻 Software developer navigating the world of backend technologies, currently working with **Next.js** and **Spring Boot**.  
+⚡ Fueled by coffee, curiosity, and the occasional bug that takes way too long to fix.  
+🐍 Writing clean code (most of the time) while still deciphering the mysteries of human communication.  
+🛠️ Building projects that (hopefully) work, improving with every iteration.  
+📌 A firm believer in **problem-solving first, coding second**—but let's be honest, Stack Overflow is always open.  
+🎮 Writing APIs by day, gaming by night, and debugging in between.
 
 
 ## 🌐 Socials:
